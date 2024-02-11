@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Rock-Paper_Sicissors (User vs Computer)
+Rock-Paper-Sicissors (User vs Computer)
